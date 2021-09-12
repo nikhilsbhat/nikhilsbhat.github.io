@@ -1,1 +1,176 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Tags on Nikhil Bhat</title><link>https://basnik.netlify.com/tags/</link><description>Recent content in Tags on Nikhil Bhat</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://basnik.netlify.com/tags/index.xml" rel="self" type="application/rss+xml"/><item><title>AWS</title><link>https://basnik.netlify.com/tags/aws/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://basnik.netlify.com/tags/aws/</guid><description/></item><item><title>AZURE</title><link>https://basnik.netlify.com/tags/azure/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://basnik.netlify.com/tags/azure/</guid><description/></item><item><title>GCP</title><link>https://basnik.netlify.com/tags/gcp/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://basnik.netlify.com/tags/gcp/</guid><description/></item><item><title>Go</title><link>https://basnik.netlify.com/tags/go/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://basnik.netlify.com/tags/go/</guid><description/></item><item><title>GoLang</title><link>https://basnik.netlify.com/tags/golang/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://basnik.netlify.com/tags/golang/</guid><description/></item><item><title>Infrastructure</title><link>https://basnik.netlify.com/tags/infrastructure/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://basnik.netlify.com/tags/infrastructure/</guid><description/></item><item><title>k3d</title><link>https://basnik.netlify.com/tags/k3d/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://basnik.netlify.com/tags/k3d/</guid><description/></item><item><title>k3s</title><link>https://basnik.netlify.com/tags/k3s/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://basnik.netlify.com/tags/k3s/</guid><description/></item><item><title>rancher</title><link>https://basnik.netlify.com/tags/rancher/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://basnik.netlify.com/tags/rancher/</guid><description/></item><item><title>REST APIs</title><link>https://basnik.netlify.com/tags/rest-apis/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://basnik.netlify.com/tags/rest-apis/</guid><description/></item><item><title>Terraform</title><link>https://basnik.netlify.com/tags/terraform/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://basnik.netlify.com/tags/terraform/</guid><description/></item><item><title>terraform-custom-provider</title><link>https://basnik.netlify.com/tags/terraform-custom-provider/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://basnik.netlify.com/tags/terraform-custom-provider/</guid><description/></item><item><title>terraform-provider</title><link>https://basnik.netlify.com/tags/terraform-provider/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://basnik.netlify.com/tags/terraform-provider/</guid><description/></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Nikhil Bhat</title>
+    <link>https://basnik.netlify.com/tags/</link>
+    <description>Recent content in Tags on Nikhil Bhat</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://basnik.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>AWS</title>
+      <link>https://basnik.netlify.com/tags/aws/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://basnik.netlify.com/tags/aws/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AZURE</title>
+      <link>https://basnik.netlify.com/tags/azure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://basnik.netlify.com/tags/azure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GCP</title>
+      <link>https://basnik.netlify.com/tags/gcp/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://basnik.netlify.com/tags/gcp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Go</title>
+      <link>https://basnik.netlify.com/tags/go/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://basnik.netlify.com/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GoLang</title>
+      <link>https://basnik.netlify.com/tags/golang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://basnik.netlify.com/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Helm</title>
+      <link>https://basnik.netlify.com/tags/helm/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://basnik.netlify.com/tags/helm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Helm-Extensions</title>
+      <link>https://basnik.netlify.com/tags/helm-extensions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://basnik.netlify.com/tags/helm-extensions/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Helm-Plugins</title>
+      <link>https://basnik.netlify.com/tags/helm-plugins/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://basnik.netlify.com/tags/helm-plugins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Images</title>
+      <link>https://basnik.netlify.com/tags/images/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://basnik.netlify.com/tags/images/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Infrastructure</title>
+      <link>https://basnik.netlify.com/tags/infrastructure/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://basnik.netlify.com/tags/infrastructure/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>k3d</title>
+      <link>https://basnik.netlify.com/tags/k3d/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://basnik.netlify.com/tags/k3d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>k3s</title>
+      <link>https://basnik.netlify.com/tags/k3s/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://basnik.netlify.com/tags/k3s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rancher</title>
+      <link>https://basnik.netlify.com/tags/rancher/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://basnik.netlify.com/tags/rancher/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Registry</title>
+      <link>https://basnik.netlify.com/tags/registry/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://basnik.netlify.com/tags/registry/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>REST APIs</title>
+      <link>https://basnik.netlify.com/tags/rest-apis/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://basnik.netlify.com/tags/rest-apis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Terraform</title>
+      <link>https://basnik.netlify.com/tags/terraform/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://basnik.netlify.com/tags/terraform/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>terraform-custom-provider</title>
+      <link>https://basnik.netlify.com/tags/terraform-custom-provider/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://basnik.netlify.com/tags/terraform-custom-provider/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>terraform-provider</title>
+      <link>https://basnik.netlify.com/tags/terraform-provider/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://basnik.netlify.com/tags/terraform-provider/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
