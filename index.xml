@@ -12,6 +12,24 @@
     
     
     <item>
+      <title>GoCD Golang SDK</title>
+      <link>https://basnik.netlify.com/projects/creations/gocd-sdk-golang/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://basnik.netlify.com/projects/creations/gocd-sdk-golang/</guid>
+      <description> This Library could be helpful while building any tools around GoCD or while interacting with GoCD to perform certain daily activities. Which could include checking the health of all agents connected to GoCD or status of a job and many more. </description>
+    </item>
+    
+    <item>
+      <title>GoCD prometheus exporter</title>
+      <link>https://basnik.netlify.com/projects/creations/gocd-prometheus-exporter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://basnik.netlify.com/projects/creations/gocd-prometheus-exporter/</guid>
+      <description>Prometheus exporter that helps in collecting various metadata and other information from GoCD and exposes it as metrics. This interacts with GoCD server&#39;s api to collect metrics, also monitors pipeline directories specified when deployed in GoCD server. It schedules both metric collections from GoCD server and pipeline size as cron to reduce resource spike when /metrics is invoked. Most importantly disk check is an expensive operation which can spike resource consumption, by doing this way load on the platform exporter is running can be reduced.</description>
+    </item>
+    
+    <item>
       <title>Helm Images</title>
       <link>https://basnik.netlify.com/projects/creations/helm-images/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>

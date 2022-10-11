@@ -11,6 +11,15 @@
     
     
     <item>
+      <title>API</title>
+      <link>https://basnik.netlify.com/tags/api/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://basnik.netlify.com/tags/api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>AWS</title>
       <link>https://basnik.netlify.com/tags/aws/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -29,6 +38,15 @@
     </item>
     
     <item>
+      <title>Client-Library</title>
+      <link>https://basnik.netlify.com/tags/client-library/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://basnik.netlify.com/tags/client-library/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>GCP</title>
       <link>https://basnik.netlify.com/tags/gcp/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -43,6 +61,42 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://basnik.netlify.com/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GoCD</title>
+      <link>https://basnik.netlify.com/tags/gocd/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://basnik.netlify.com/tags/gocd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GoCD-API</title>
+      <link>https://basnik.netlify.com/tags/gocd-api/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://basnik.netlify.com/tags/gocd-api/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GoCD-SDK-GO</title>
+      <link>https://basnik.netlify.com/tags/gocd-sdk-go/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://basnik.netlify.com/tags/gocd-sdk-go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GoCD-Server</title>
+      <link>https://basnik.netlify.com/tags/gocd-server/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://basnik.netlify.com/tags/gocd-server/</guid>
       <description></description>
     </item>
     
@@ -119,6 +173,33 @@
     </item>
     
     <item>
+      <title>Kubernetes</title>
+      <link>https://basnik.netlify.com/tags/kubernetes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://basnik.netlify.com/tags/kubernetes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prometheus</title>
+      <link>https://basnik.netlify.com/tags/prometheus/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://basnik.netlify.com/tags/prometheus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Prometheus-exporter</title>
+      <link>https://basnik.netlify.com/tags/prometheus-exporter/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://basnik.netlify.com/tags/prometheus-exporter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>rancher</title>
       <link>https://basnik.netlify.com/tags/rancher/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -142,6 +223,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://basnik.netlify.com/tags/rest-apis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SDK</title>
+      <link>https://basnik.netlify.com/tags/sdk/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://basnik.netlify.com/tags/sdk/</guid>
       <description></description>
     </item>
     
