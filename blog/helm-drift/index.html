@@ -3,8 +3,8 @@
 <head>
     <meta charset=utf-8>
     <meta name=viewport content="width=device-width,initial-scale=1,shrink-to-fit=no">
-    <title>Blog</title>
-    <meta property="og:title" content="Blog">
+    <title>Identifying drifts from deployed helm releases</title>
+    <meta property="og:title" content="Identifying drifts from deployed helm releases">
     <meta property="og:image" content="http://nikhilsbhat.github.io/img/nikhil-img.jpeg">
     <meta name=description
           content="Software Engineer with experience leveraging DevOps, CI/CD and likes automating everything which delays the work. With a motto Ideas in head and google in front can implement any solution. Lover of Open Source projects, eager to contribute for few such platforms. Love to create digital infrastructure as it can really change things on ground.">
@@ -47,40 +47,52 @@
     <nav aria-label=breadcrumb>
         <ol class=breadcrumb>
             <li class=breadcrumb-item><a href=http://nikhilsbhat.github.io/>basnik</a></li>
-            <li class="breadcrumb-item active"><a href=http://nikhilsbhat.github.io/blog/>Blog</a></li>
+            <li class=breadcrumb-item><a href=http://nikhilsbhat.github.io/blog/>Blog</a></li>
+            <li class="breadcrumb-item active"><a href=http://nikhilsbhat.github.io/blog/helm-drift/>Identifying drifts from
+                deployed helm releases</a></li>
         </ol>
     </nav>
-    <section class="resume-section p-3 p-lg-5 d-flex flex-column">
-        <div class=my-auto id=projects-content><h1 id=blog>Blog</h1>
-            <p>
-            <p>A collection of my Blogs on DevOps and automation.</p></p>
-            <div class="resume-item d-flex flex-column flex-md-row mb-5">
-                <div class="publication-content mr-auto"><h3 class=mb-0><a href=http://nikhilsbhat.github.io/blog/helm-drift/>Identifying
-                    drifts from deployed helm releases</a></h3>
-                    <div>There is no native Helm way of identifying the drifts in the releases deployed via Helm. Now we
-                        have a Helm plugin to identify the drifts from the Helm releases deployed in the cluster.
-                        https://artifacthub.io/packages/helm-plugin/helm-drift/drift Just to share context on why this
-                        was created. We do in-place edits of resources a lot of times but forget to add the value back
-                        to the codebase; these edits go unnoticed and get overridden in the next deployment, which might
-                        screw up the environment if the edited changes are required.
-                    </div>
-                    <p>
-                    <ul class=tags>
-                        <li><a class=tag href=/tags/helm>Helm</a></li>
-                        <li><a class=tag href=/tags/go>Go</a></li>
-                        <li><a class=tag href=/tags/golang>Golang</a></li>
-                        <li><a class=tag href=/tags/infrastructure>Infrastructure</a></li>
-                        <li><a class=tag href=/tags/helm-plugins>Helm-Plugins</a></li>
-                        <li><a class=tag href=/tags/helm-extensions>Helm-Extensions</a></li>
-                        <li><a class=tag href=/tags/helm-drift>Helm-Drift</a></li>
-                        <li><a class=tag href=/tags/drift>Drift</a></li>
-                        <li><a class=tag href=/tags/registry>Registry</a></li>
-                    </ul>
-                    </p></div>
-                <div class="resume-date text-md-right"><span class=text-primary>January 1, 0001</span>
-                    <img src="https://img.shields.io/endpoint?url=https://artifacthub.io/badge/repository/helm-drift"
-                         style=max-width:250px;padding:5px></div>
-            </div>
+    <section class="resume-section p-3 p-lg-5 d-flex d-column">
+        <div class=my-auto><h2 class=mb-0><span class=text-primary>Identifying drifts from deployed helm releases</span>
+        </h2><span class=text-primary>January 1, 0001</span>
+            <p></p>
+            <p>There is no native Helm way of identifying the drifts in the releases deployed via Helm.<br><br>Now we
+                have a Helm plugin to identify the drifts from the Helm releases deployed in the cluster. <a
+                        href=https://artifacthub.io/packages/helm-plugin/helm-drift/drift>https://artifacthub.io/packages/helm-plugin/helm-drift/drift</a><br><br>Just
+                to share context on why this was created. We do in-place edits of resources a lot of times but forget to
+                add the value back to the codebase; these edits go unnoticed and get overridden in the next deployment,
+                which might screw up the environment if the edited changes are required.<br><br>In-place edits should be
+                avoided at all costs, but there are a lot more situations where they cannot be avoided.<br><br>Once,
+                during our production release, the deployment screwed up the setup due to the same mistake of not adding
+                values back to the helm chart code base.<br><br>Why the <b>helm-drift</b> plugin when we have <b>helm-diff</b>?
+                Helm diff will identify the drifts in the state of the helm charts maintained in Kubernetes, but it is
+                not designed to identify the <b>in-place</b> edits.<br><br>On the other hand, this <b>helm-drift</b>
+                plugin, with the help of <b>"kubectl diff,"</b> will identify the drifts by validating every resource
+                against Kubernetes. To keep it simple, invoking this plugin is as good as rendering the charts and
+                running "kubectl diff" for every template in the helm charts.<br><br>The newer version of the <b>helm-diff</b>
+                plugin has support for <b>--three-way-merge</b>, which does the job for us, but it does not say anything
+                about how the change was made, whether the patch was applied from the client-side <b>(kubectl)</b> or
+                some controller doing it. But the <b>Kubectl diff</b> helps shed light on these aspects.<br><br>This
+                plugin will do the heavy lifting of rendering the templates from the deployed releases or the local
+                chart as per the selection and validating them.<br><br>The plugin does have some caveats, which I have
+                called out in the <b>README</b>. Try this on your projects and share feedback. With more feedback, the
+                plugin can grow a lot better.<br></p>
+            <p>Project link: <a
+                    href=https://github.com/nikhilsbhat/helm-drift>https://github.com/nikhilsbhat/helm-drift</a></p>
+            <p>Originally Published On: <a
+                    href=https://medium.com/@nikhilsbhat93/helm-plugin-to-identify-the-configuration-that-has-drifted-away-from-the-deployed-helm-release-72f05d26d8cf>https://medium.com</a>
+            </p>
+            <ul class=tags>
+                <li><a class=tag href=/tags/helm>Helm</a></li>
+                <li><a class=tag href=/tags/go>Go</a></li>
+                <li><a class=tag href=/tags/golang>Golang</a></li>
+                <li><a class=tag href=/tags/infrastructure>Infrastructure</a></li>
+                <li><a class=tag href=/tags/helm-plugins>Helm-Plugins</a></li>
+                <li><a class=tag href=/tags/helm-extensions>Helm-Extensions</a></li>
+                <li><a class=tag href=/tags/helm-drift>Helm-Drift</a></li>
+                <li><a class=tag href=/tags/drift>Drift</a></li>
+                <li><a class=tag href=/tags/registry>Registry</a></li>
+            </ul>
         </div>
     </section>
 </div>

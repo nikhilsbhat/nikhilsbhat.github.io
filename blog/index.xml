@@ -1,1 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Blog on Nikhil Bhat</title><link>https://nikhilsbhat.github.io/blog/</link><description>Recent content in Blog on Nikhil Bhat</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://nikhilsbhat.github.io/blog/index.xml" rel="self" type="application/rss+xml"/></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Blog on Nikhil Bhat</title>
+        <link>http://nikhilsbhat.github.io/blog/</link>
+        <description>Recent content in Blog on Nikhil Bhat</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <atom:link href="http://nikhilsbhat.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title>Identifying drifts from deployed helm releases</title>
+            <link>http://nikhilsbhat.github.io/blog/helm-drift/</link>
+            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+            <guid>http://nikhilsbhat.github.io/blog/helm-drift/</guid>
+            <description>There is no native Helm way of identifying the drifts in the releases deployed via Helm. Now we
+                have a Helm plugin to identify the drifts from the Helm releases deployed in the cluster.
+                https://artifacthub.io/packages/helm-plugin/helm-drift/drift Just to share context on why this was
+                created. We do in-place edits of resources a lot of times but forget to add the value back to the
+                codebase; these edits go unnoticed and get overridden in the next deployment, which might screw up the
+                environment if the edited changes are required.
+            </description>
+        </item>
+    </channel>
+</rss>
