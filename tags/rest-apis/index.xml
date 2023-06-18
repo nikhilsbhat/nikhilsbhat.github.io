@@ -1,45 +1,5 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-    <channel>
-        <title>REST APIs on Nikhil Bhat</title>
-        <link>https://nikhilsbhat.github.io/tags/rest-apis/</link>
-        <description>Recent content in REST APIs on Nikhil Bhat</description>
-        <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
-        <atom:link href="https://nikhilsbhat.github.io/tags/rest-apis/index.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title>Neuron Cloudy</title>
-            <link>https://nikhilsbhat.github.io/projects/creations/neuron-cloudy/</link>
-            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>https://nikhilsbhat.github.io/projects/creations/neuron-cloudy/</guid>
-            <description>This the backbone of neuron cli and is responsible for conneccting to various cloud from a
-                single cloud.
-            </description>
-        </item>
-        <item>
-            <title>Neuron</title>
-            <link>https://nikhilsbhat.github.io/projects/creations/neuron/</link>
-            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>https://nikhilsbhat.github.io/projects/creations/neuron/</guid>
-            <description>In the current era of Devops, with the growing list of tools which one have to deal with to
-                automate the day to day tasks in their respective projects is quite challenging.
-                Learning new cloud platform brings in its own challenges with it, one has to learn its natvie
-                terminologies of calling the same resurce. Seeing all these started working on Neuron.
-                No need to know the names of the resources in different cloud.
-            </description>
-        </item>
-        <item>
-            <title>Config</title>
-            <link>https://nikhilsbhat.github.io/projects/creations/config/</link>
-            <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>https://nikhilsbhat.github.io/projects/creations/config/</guid>
-            <description>It is difficult to switch context of different kubernetes clusters hosted in GCP projects. If
-                one has to connect cluster using gcloud, will end up runnig multiple gcloud commands and is painful
-                task.
-                Yeah GCP has a option of cloud shell, where one can connect to the cluster hassle-free. Its little hard
-                if we have to connect locally from our machines.
-                Config solves exactly the same thing, by letting one to switch the cluster in one command.
-            </description>
-        </item>
-    </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>REST APIs on Nikhil Bhat</title><link>https://nikhilsbhat.github.io/tags/rest-apis/</link><description>Recent content in REST APIs on Nikhil Bhat</description><generator>Hugo -- gohugo.io</generator><language>en-us</language><atom:link href="https://nikhilsbhat.github.io/tags/rest-apis/index.xml" rel="self" type="application/rss+xml"/><item><title>Neuron Cloudy</title><link>https://nikhilsbhat.github.io/projects/creations/neuron-cloudy/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://nikhilsbhat.github.io/projects/creations/neuron-cloudy/</guid><description>This the backbone of neuron cli and is responsible for conneccting to various cloud from a single cloud.</description></item><item><title>Neuron</title><link>https://nikhilsbhat.github.io/projects/creations/neuron/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://nikhilsbhat.github.io/projects/creations/neuron/</guid><description>In the current era of Devops, with the growing list of tools which one have to deal with to automate the day to day tasks in their respective projects is quite challenging.
+Learning new cloud platform brings in its own challenges with it, one has to learn its natvie terminologies of calling the same resurce. Seeing all these started working on Neuron.
+No need to know the names of the resources in different cloud.</description></item><item><title>Config</title><link>https://nikhilsbhat.github.io/projects/creations/config/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://nikhilsbhat.github.io/projects/creations/config/</guid><description>It is difficult to switch context of different kubernetes clusters hosted in GCP projects. If one has to connect cluster using gcloud, will end up runnig multiple gcloud commands and is painful task.
+Yeah GCP has a option of cloud shell, where one can connect to the cluster hassle-free. Its little hard if we have to connect locally from our machines.
+Config solves exactly the same thing, by letting one to switch the cluster in one command.</description></item></channel></rss>
