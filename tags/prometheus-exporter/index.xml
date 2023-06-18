@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Prometheus-exporter on Nikhil Bhat</title>
-        <link>http://nikhilsbhat.github.io/tags/prometheus-exporter/</link>
+        <link>https://nikhilsbhat.github.io/tags/prometheus-exporter/</link>
         <description>Recent content in Prometheus-exporter on Nikhil Bhat</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <atom:link href="http://nikhilsbhat.github.io/tags/prometheus-exporter/index.xml" rel="self"
+        <atom:link href="https://nikhilsbhat.github.io/tags/prometheus-exporter/index.xml" rel="self"
                    type="application/rss+xml"/>
         <item>
             <title>GoCD prometheus exporter</title>
-            <link>http://nikhilsbhat.github.io/projects/creations/gocd-prometheus-exporter/</link>
+            <link>https://nikhilsbhat.github.io/projects/creations/gocd-prometheus-exporter/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://nikhilsbhat.github.io/projects/creations/gocd-prometheus-exporter/</guid>
+            <guid>https://nikhilsbhat.github.io/projects/creations/gocd-prometheus-exporter/</guid>
             <description>Prometheus exporter that helps in collecting various metadata and other information from GoCD
                 and exposes it as metrics. This interacts with GoCD server&#39;s api to collect metrics, also monitors
                 pipeline directories specified when deployed in GoCD server. It schedules both metric collections from

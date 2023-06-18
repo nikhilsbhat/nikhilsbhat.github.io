@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>REST APIs on Nikhil Bhat</title>
-        <link>http://nikhilsbhat.github.io/tags/rest-apis/</link>
+        <link>https://nikhilsbhat.github.io/tags/rest-apis/</link>
         <description>Recent content in REST APIs on Nikhil Bhat</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <atom:link href="http://nikhilsbhat.github.io/tags/rest-apis/index.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://nikhilsbhat.github.io/tags/rest-apis/index.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title>Neuron Cloudy</title>
-            <link>http://nikhilsbhat.github.io/projects/creations/neuron-cloudy/</link>
+            <link>https://nikhilsbhat.github.io/projects/creations/neuron-cloudy/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://nikhilsbhat.github.io/projects/creations/neuron-cloudy/</guid>
+            <guid>https://nikhilsbhat.github.io/projects/creations/neuron-cloudy/</guid>
             <description>This the backbone of neuron cli and is responsible for conneccting to various cloud from a
                 single cloud.
             </description>
         </item>
         <item>
             <title>Neuron</title>
-            <link>http://nikhilsbhat.github.io/projects/creations/neuron/</link>
+            <link>https://nikhilsbhat.github.io/projects/creations/neuron/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://nikhilsbhat.github.io/projects/creations/neuron/</guid>
+            <guid>https://nikhilsbhat.github.io/projects/creations/neuron/</guid>
             <description>In the current era of Devops, with the growing list of tools which one have to deal with to
                 automate the day to day tasks in their respective projects is quite challenging.
                 Learning new cloud platform brings in its own challenges with it, one has to learn its natvie
@@ -30,9 +30,9 @@
         </item>
         <item>
             <title>Config</title>
-            <link>http://nikhilsbhat.github.io/projects/creations/config/</link>
+            <link>https://nikhilsbhat.github.io/projects/creations/config/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://nikhilsbhat.github.io/projects/creations/config/</guid>
+            <guid>https://nikhilsbhat.github.io/projects/creations/config/</guid>
             <description>It is difficult to switch context of different kubernetes clusters hosted in GCP projects. If
                 one has to connect cluster using gcloud, will end up runnig multiple gcloud commands and is painful
                 task.

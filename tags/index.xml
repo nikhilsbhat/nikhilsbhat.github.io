@@ -2,275 +2,275 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on Nikhil Bhat</title>
-        <link>http://nikhilsbhat.github.io/tags/</link>
+        <link>https://nikhilsbhat.github.io/tags/</link>
         <description>Recent content in Tags on Nikhil Bhat</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <atom:link href="http://nikhilsbhat.github.io/tags/index.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://nikhilsbhat.github.io/tags/index.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title>API</title>
-            <link>http://nikhilsbhat.github.io/tags/api/</link>
+            <link>https://nikhilsbhat.github.io/tags/api/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://nikhilsbhat.github.io/tags/api/</guid>
+            <guid>https://nikhilsbhat.github.io/tags/api/</guid>
             <description/>
         </item>
         <item>
             <title>AWS</title>
-            <link>http://nikhilsbhat.github.io/tags/aws/</link>
+            <link>https://nikhilsbhat.github.io/tags/aws/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://nikhilsbhat.github.io/tags/aws/</guid>
+            <guid>https://nikhilsbhat.github.io/tags/aws/</guid>
             <description/>
         </item>
         <item>
             <title>AZURE</title>
-            <link>http://nikhilsbhat.github.io/tags/azure/</link>
+            <link>https://nikhilsbhat.github.io/tags/azure/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://nikhilsbhat.github.io/tags/azure/</guid>
+            <guid>https://nikhilsbhat.github.io/tags/azure/</guid>
             <description/>
         </item>
         <item>
             <title>CI-CD</title>
-            <link>http://nikhilsbhat.github.io/tags/ci-cd/</link>
+            <link>https://nikhilsbhat.github.io/tags/ci-cd/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://nikhilsbhat.github.io/tags/ci-cd/</guid>
+            <guid>https://nikhilsbhat.github.io/tags/ci-cd/</guid>
             <description/>
         </item>
         <item>
             <title>cli</title>
-            <link>http://nikhilsbhat.github.io/tags/cli/</link>
+            <link>https://nikhilsbhat.github.io/tags/cli/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://nikhilsbhat.github.io/tags/cli/</guid>
+            <guid>https://nikhilsbhat.github.io/tags/cli/</guid>
             <description/>
         </item>
         <item>
             <title>Client-Library</title>
-            <link>http://nikhilsbhat.github.io/tags/client-library/</link>
+            <link>https://nikhilsbhat.github.io/tags/client-library/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://nikhilsbhat.github.io/tags/client-library/</guid>
+            <guid>https://nikhilsbhat.github.io/tags/client-library/</guid>
             <description/>
         </item>
         <item>
             <title>command-line</title>
-            <link>http://nikhilsbhat.github.io/tags/command-line/</link>
+            <link>https://nikhilsbhat.github.io/tags/command-line/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://nikhilsbhat.github.io/tags/command-line/</guid>
+            <guid>https://nikhilsbhat.github.io/tags/command-line/</guid>
             <description/>
         </item>
         <item>
             <title>containerd</title>
-            <link>http://nikhilsbhat.github.io/tags/containerd/</link>
+            <link>https://nikhilsbhat.github.io/tags/containerd/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://nikhilsbhat.github.io/tags/containerd/</guid>
+            <guid>https://nikhilsbhat.github.io/tags/containerd/</guid>
             <description/>
         </item>
         <item>
             <title>continuous-delivery</title>
-            <link>http://nikhilsbhat.github.io/tags/continuous-delivery/</link>
+            <link>https://nikhilsbhat.github.io/tags/continuous-delivery/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://nikhilsbhat.github.io/tags/continuous-delivery/</guid>
+            <guid>https://nikhilsbhat.github.io/tags/continuous-delivery/</guid>
             <description/>
         </item>
         <item>
             <title>continuous-integration</title>
-            <link>http://nikhilsbhat.github.io/tags/continuous-integration/</link>
+            <link>https://nikhilsbhat.github.io/tags/continuous-integration/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://nikhilsbhat.github.io/tags/continuous-integration/</guid>
+            <guid>https://nikhilsbhat.github.io/tags/continuous-integration/</guid>
             <description/>
         </item>
         <item>
             <title>docker</title>
-            <link>http://nikhilsbhat.github.io/tags/docker/</link>
+            <link>https://nikhilsbhat.github.io/tags/docker/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://nikhilsbhat.github.io/tags/docker/</guid>
+            <guid>https://nikhilsbhat.github.io/tags/docker/</guid>
             <description/>
         </item>
         <item>
             <title>Drift</title>
-            <link>http://nikhilsbhat.github.io/tags/drift/</link>
+            <link>https://nikhilsbhat.github.io/tags/drift/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://nikhilsbhat.github.io/tags/drift/</guid>
+            <guid>https://nikhilsbhat.github.io/tags/drift/</guid>
             <description/>
         </item>
         <item>
             <title>GCP</title>
-            <link>http://nikhilsbhat.github.io/tags/gcp/</link>
+            <link>https://nikhilsbhat.github.io/tags/gcp/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://nikhilsbhat.github.io/tags/gcp/</guid>
+            <guid>https://nikhilsbhat.github.io/tags/gcp/</guid>
             <description/>
         </item>
         <item>
             <title>Go</title>
-            <link>http://nikhilsbhat.github.io/tags/go/</link>
+            <link>https://nikhilsbhat.github.io/tags/go/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://nikhilsbhat.github.io/tags/go/</guid>
+            <guid>https://nikhilsbhat.github.io/tags/go/</guid>
             <description/>
         </item>
         <item>
             <title>GoCD</title>
-            <link>http://nikhilsbhat.github.io/tags/gocd/</link>
+            <link>https://nikhilsbhat.github.io/tags/gocd/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://nikhilsbhat.github.io/tags/gocd/</guid>
+            <guid>https://nikhilsbhat.github.io/tags/gocd/</guid>
             <description/>
         </item>
         <item>
             <title>GoCD-API</title>
-            <link>http://nikhilsbhat.github.io/tags/gocd-api/</link>
+            <link>https://nikhilsbhat.github.io/tags/gocd-api/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://nikhilsbhat.github.io/tags/gocd-api/</guid>
+            <guid>https://nikhilsbhat.github.io/tags/gocd-api/</guid>
             <description/>
         </item>
         <item>
             <title>GoCD-SDK-GO</title>
-            <link>http://nikhilsbhat.github.io/tags/gocd-sdk-go/</link>
+            <link>https://nikhilsbhat.github.io/tags/gocd-sdk-go/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://nikhilsbhat.github.io/tags/gocd-sdk-go/</guid>
+            <guid>https://nikhilsbhat.github.io/tags/gocd-sdk-go/</guid>
             <description/>
         </item>
         <item>
             <title>GoCD-Server</title>
-            <link>http://nikhilsbhat.github.io/tags/gocd-server/</link>
+            <link>https://nikhilsbhat.github.io/tags/gocd-server/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://nikhilsbhat.github.io/tags/gocd-server/</guid>
+            <guid>https://nikhilsbhat.github.io/tags/gocd-server/</guid>
             <description/>
         </item>
         <item>
             <title>Golang</title>
-            <link>http://nikhilsbhat.github.io/tags/golang/</link>
+            <link>https://nikhilsbhat.github.io/tags/golang/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://nikhilsbhat.github.io/tags/golang/</guid>
+            <guid>https://nikhilsbhat.github.io/tags/golang/</guid>
             <description/>
         </item>
         <item>
             <title>Helm</title>
-            <link>http://nikhilsbhat.github.io/tags/helm/</link>
+            <link>https://nikhilsbhat.github.io/tags/helm/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://nikhilsbhat.github.io/tags/helm/</guid>
+            <guid>https://nikhilsbhat.github.io/tags/helm/</guid>
             <description/>
         </item>
         <item>
             <title>Helm-Drift</title>
-            <link>http://nikhilsbhat.github.io/tags/helm-drift/</link>
+            <link>https://nikhilsbhat.github.io/tags/helm-drift/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://nikhilsbhat.github.io/tags/helm-drift/</guid>
+            <guid>https://nikhilsbhat.github.io/tags/helm-drift/</guid>
             <description/>
         </item>
         <item>
             <title>Helm-Extensions</title>
-            <link>http://nikhilsbhat.github.io/tags/helm-extensions/</link>
+            <link>https://nikhilsbhat.github.io/tags/helm-extensions/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://nikhilsbhat.github.io/tags/helm-extensions/</guid>
+            <guid>https://nikhilsbhat.github.io/tags/helm-extensions/</guid>
             <description/>
         </item>
         <item>
             <title>Helm-Images</title>
-            <link>http://nikhilsbhat.github.io/tags/helm-images/</link>
+            <link>https://nikhilsbhat.github.io/tags/helm-images/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://nikhilsbhat.github.io/tags/helm-images/</guid>
+            <guid>https://nikhilsbhat.github.io/tags/helm-images/</guid>
             <description/>
         </item>
         <item>
             <title>Helm-Plugins</title>
-            <link>http://nikhilsbhat.github.io/tags/helm-plugins/</link>
+            <link>https://nikhilsbhat.github.io/tags/helm-plugins/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://nikhilsbhat.github.io/tags/helm-plugins/</guid>
+            <guid>https://nikhilsbhat.github.io/tags/helm-plugins/</guid>
             <description/>
         </item>
         <item>
             <title>Images</title>
-            <link>http://nikhilsbhat.github.io/tags/images/</link>
+            <link>https://nikhilsbhat.github.io/tags/images/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://nikhilsbhat.github.io/tags/images/</guid>
+            <guid>https://nikhilsbhat.github.io/tags/images/</guid>
             <description/>
         </item>
         <item>
             <title>Infrastructure</title>
-            <link>http://nikhilsbhat.github.io/tags/infrastructure/</link>
+            <link>https://nikhilsbhat.github.io/tags/infrastructure/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://nikhilsbhat.github.io/tags/infrastructure/</guid>
+            <guid>https://nikhilsbhat.github.io/tags/infrastructure/</guid>
             <description/>
         </item>
         <item>
             <title>k3d</title>
-            <link>http://nikhilsbhat.github.io/tags/k3d/</link>
+            <link>https://nikhilsbhat.github.io/tags/k3d/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://nikhilsbhat.github.io/tags/k3d/</guid>
+            <guid>https://nikhilsbhat.github.io/tags/k3d/</guid>
             <description/>
         </item>
         <item>
             <title>k3s</title>
-            <link>http://nikhilsbhat.github.io/tags/k3s/</link>
+            <link>https://nikhilsbhat.github.io/tags/k3s/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://nikhilsbhat.github.io/tags/k3s/</guid>
+            <guid>https://nikhilsbhat.github.io/tags/k3s/</guid>
             <description/>
         </item>
         <item>
             <title>Kubernetes</title>
-            <link>http://nikhilsbhat.github.io/tags/kubernetes/</link>
+            <link>https://nikhilsbhat.github.io/tags/kubernetes/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://nikhilsbhat.github.io/tags/kubernetes/</guid>
+            <guid>https://nikhilsbhat.github.io/tags/kubernetes/</guid>
             <description/>
         </item>
         <item>
             <title>Prometheus</title>
-            <link>http://nikhilsbhat.github.io/tags/prometheus/</link>
+            <link>https://nikhilsbhat.github.io/tags/prometheus/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://nikhilsbhat.github.io/tags/prometheus/</guid>
+            <guid>https://nikhilsbhat.github.io/tags/prometheus/</guid>
             <description/>
         </item>
         <item>
             <title>Prometheus-exporter</title>
-            <link>http://nikhilsbhat.github.io/tags/prometheus-exporter/</link>
+            <link>https://nikhilsbhat.github.io/tags/prometheus-exporter/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://nikhilsbhat.github.io/tags/prometheus-exporter/</guid>
+            <guid>https://nikhilsbhat.github.io/tags/prometheus-exporter/</guid>
             <description/>
         </item>
         <item>
             <title>rancher</title>
-            <link>http://nikhilsbhat.github.io/tags/rancher/</link>
+            <link>https://nikhilsbhat.github.io/tags/rancher/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://nikhilsbhat.github.io/tags/rancher/</guid>
+            <guid>https://nikhilsbhat.github.io/tags/rancher/</guid>
             <description/>
         </item>
         <item>
             <title>Registry</title>
-            <link>http://nikhilsbhat.github.io/tags/registry/</link>
+            <link>https://nikhilsbhat.github.io/tags/registry/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://nikhilsbhat.github.io/tags/registry/</guid>
+            <guid>https://nikhilsbhat.github.io/tags/registry/</guid>
             <description/>
         </item>
         <item>
             <title>REST APIs</title>
-            <link>http://nikhilsbhat.github.io/tags/rest-apis/</link>
+            <link>https://nikhilsbhat.github.io/tags/rest-apis/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://nikhilsbhat.github.io/tags/rest-apis/</guid>
+            <guid>https://nikhilsbhat.github.io/tags/rest-apis/</guid>
             <description/>
         </item>
         <item>
             <title>SDK</title>
-            <link>http://nikhilsbhat.github.io/tags/sdk/</link>
+            <link>https://nikhilsbhat.github.io/tags/sdk/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://nikhilsbhat.github.io/tags/sdk/</guid>
+            <guid>https://nikhilsbhat.github.io/tags/sdk/</guid>
             <description/>
         </item>
         <item>
             <title>Terraform</title>
-            <link>http://nikhilsbhat.github.io/tags/terraform/</link>
+            <link>https://nikhilsbhat.github.io/tags/terraform/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://nikhilsbhat.github.io/tags/terraform/</guid>
+            <guid>https://nikhilsbhat.github.io/tags/terraform/</guid>
             <description/>
         </item>
         <item>
             <title>terraform-custom-provider</title>
-            <link>http://nikhilsbhat.github.io/tags/terraform-custom-provider/</link>
+            <link>https://nikhilsbhat.github.io/tags/terraform-custom-provider/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://nikhilsbhat.github.io/tags/terraform-custom-provider/</guid>
+            <guid>https://nikhilsbhat.github.io/tags/terraform-custom-provider/</guid>
             <description/>
         </item>
         <item>
             <title>terraform-provider</title>
-            <link>http://nikhilsbhat.github.io/tags/terraform-provider/</link>
+            <link>https://nikhilsbhat.github.io/tags/terraform-provider/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://nikhilsbhat.github.io/tags/terraform-provider/</guid>
+            <guid>https://nikhilsbhat.github.io/tags/terraform-provider/</guid>
             <description/>
         </item>
     </channel>

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Blog on Nikhil Bhat</title>
-        <link>http://nikhilsbhat.github.io/blog/</link>
+        <link>https://nikhilsbhat.github.io/blog/</link>
         <description>Recent content in Blog on Nikhil Bhat</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <atom:link href="http://nikhilsbhat.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://nikhilsbhat.github.io/blog/index.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title>Identifying drifts from deployed helm releases</title>
-            <link>http://nikhilsbhat.github.io/blog/helm-drift/</link>
+            <link>https://nikhilsbhat.github.io/blog/helm-drift/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://nikhilsbhat.github.io/blog/helm-drift/</guid>
+            <guid>https://nikhilsbhat.github.io/blog/helm-drift/</guid>
             <description>There is no native Helm way of identifying the drifts in the releases deployed via Helm. Now we
                 have a Helm plugin to identify the drifts from the Helm releases deployed in the cluster.
                 https://artifacthub.io/packages/helm-plugin/helm-drift/drift Just to share context on why this was

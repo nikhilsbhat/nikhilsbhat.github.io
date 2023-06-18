@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Golang on Nikhil Bhat</title>
-        <link>http://nikhilsbhat.github.io/tags/golang/</link>
+        <link>https://nikhilsbhat.github.io/tags/golang/</link>
         <description>Recent content in Golang on Nikhil Bhat</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <atom:link href="http://nikhilsbhat.github.io/tags/golang/index.xml" rel="self" type="application/rss+xml"/>
+        <atom:link href="https://nikhilsbhat.github.io/tags/golang/index.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title>Commandline interface for GoCD server</title>
-            <link>http://nikhilsbhat.github.io/projects/creations/gocd-cli/</link>
+            <link>https://nikhilsbhat.github.io/projects/creations/gocd-cli/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://nikhilsbhat.github.io/projects/creations/gocd-cli/</guid>
+            <guid>https://nikhilsbhat.github.io/projects/creations/gocd-cli/</guid>
             <description>Command-line interface for GoCD that helps in interacting with GoCD server.</description>
         </item>
         <item>
             <title>GoCD Golang SDK</title>
-            <link>http://nikhilsbhat.github.io/projects/creations/gocd-sdk-golang/</link>
+            <link>https://nikhilsbhat.github.io/projects/creations/gocd-sdk-golang/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://nikhilsbhat.github.io/projects/creations/gocd-sdk-golang/</guid>
+            <guid>https://nikhilsbhat.github.io/projects/creations/gocd-sdk-golang/</guid>
             <description>This Library could be helpful while building any tools around GoCD or while interacting with
                 GoCD to perform certain daily activities. Which could include checking the health of all agents
                 connected to GoCD or status of a job and many more.
@@ -26,9 +26,9 @@
         </item>
         <item>
             <title>GoCD prometheus exporter</title>
-            <link>http://nikhilsbhat.github.io/projects/creations/gocd-prometheus-exporter/</link>
+            <link>https://nikhilsbhat.github.io/projects/creations/gocd-prometheus-exporter/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://nikhilsbhat.github.io/projects/creations/gocd-prometheus-exporter/</guid>
+            <guid>https://nikhilsbhat.github.io/projects/creations/gocd-prometheus-exporter/</guid>
             <description>Prometheus exporter that helps in collecting various metadata and other information from GoCD
                 and exposes it as metrics. This interacts with GoCD server&#39;s api to collect metrics, also monitors
                 pipeline directories specified when deployed in GoCD server. It schedules both metric collections from
@@ -39,16 +39,16 @@
         </item>
         <item>
             <title>GoCD Terraform Provider</title>
-            <link>http://nikhilsbhat.github.io/projects/creations/terraform-provider-gocd/</link>
+            <link>https://nikhilsbhat.github.io/projects/creations/terraform-provider-gocd/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://nikhilsbhat.github.io/projects/creations/terraform-provider-gocd/</guid>
+            <guid>https://nikhilsbhat.github.io/projects/creations/terraform-provider-gocd/</guid>
             <description>A terraform provider for GoCD that helps in performing tasks on GoCD server.</description>
         </item>
         <item>
             <title>Helm Drift</title>
-            <link>http://nikhilsbhat.github.io/projects/creations/helm-drift/</link>
+            <link>https://nikhilsbhat.github.io/projects/creations/helm-drift/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://nikhilsbhat.github.io/projects/creations/helm-drift/</guid>
+            <guid>https://nikhilsbhat.github.io/projects/creations/helm-drift/</guid>
             <description>The helm plugin that helps in identifying deviations(mostly due to in-place edits) in the
                 configurations that are deployed via helm chart. Kubernetes&#39; resources can be deployed via package
                 manager helm, it is easier to deploy but to manage the same require more effort. If helm is used,
@@ -58,9 +58,9 @@
         </item>
         <item>
             <title>Helm Images</title>
-            <link>http://nikhilsbhat.github.io/projects/creations/helm-images/</link>
+            <link>https://nikhilsbhat.github.io/projects/creations/helm-images/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://nikhilsbhat.github.io/projects/creations/helm-images/</guid>
+            <guid>https://nikhilsbhat.github.io/projects/creations/helm-images/</guid>
             <description>Identifying all images just before the deployment of the helm chart is not a straightforward
                 task. To make it simple, the helm plugin is leveraged. This can be installed as an add-on to the helm.
                 It helps in filtering images based on the Kubernetes type. It also helps in filtering images based on a
@@ -69,26 +69,26 @@
         </item>
         <item>
             <title>k3d Terraform Provider</title>
-            <link>http://nikhilsbhat.github.io/projects/creations/terraform-provider-k3d/</link>
+            <link>https://nikhilsbhat.github.io/projects/creations/terraform-provider-k3d/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://nikhilsbhat.github.io/projects/creations/terraform-provider-k3d/</guid>
+            <guid>https://nikhilsbhat.github.io/projects/creations/terraform-provider-k3d/</guid>
             <description>A terraform provider support for k3d, which helps in performing all operation that k3d does.
             </description>
         </item>
         <item>
             <title>Neuron Cloudy</title>
-            <link>http://nikhilsbhat.github.io/projects/creations/neuron-cloudy/</link>
+            <link>https://nikhilsbhat.github.io/projects/creations/neuron-cloudy/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://nikhilsbhat.github.io/projects/creations/neuron-cloudy/</guid>
+            <guid>https://nikhilsbhat.github.io/projects/creations/neuron-cloudy/</guid>
             <description>This the backbone of neuron cli and is responsible for conneccting to various cloud from a
                 single cloud.
             </description>
         </item>
         <item>
             <title>Neuron</title>
-            <link>http://nikhilsbhat.github.io/projects/creations/neuron/</link>
+            <link>https://nikhilsbhat.github.io/projects/creations/neuron/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://nikhilsbhat.github.io/projects/creations/neuron/</guid>
+            <guid>https://nikhilsbhat.github.io/projects/creations/neuron/</guid>
             <description>In the current era of Devops, with the growing list of tools which one have to deal with to
                 automate the day to day tasks in their respective projects is quite challenging.
                 Learning new cloud platform brings in its own challenges with it, one has to learn its natvie
@@ -98,9 +98,9 @@
         </item>
         <item>
             <title>Terraform GCP Provider</title>
-            <link>http://nikhilsbhat.github.io/projects/creations/terraform-gcp/</link>
+            <link>https://nikhilsbhat.github.io/projects/creations/terraform-gcp/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://nikhilsbhat.github.io/projects/creations/terraform-gcp/</guid>
+            <guid>https://nikhilsbhat.github.io/projects/creations/terraform-gcp/</guid>
             <description>A custom provider of Terraform which helps to perform certain operations on GCP which default
                 provider does not offer.
                 This includes service account key rotation.
@@ -108,9 +108,9 @@
         </item>
         <item>
             <title>Config</title>
-            <link>http://nikhilsbhat.github.io/projects/creations/config/</link>
+            <link>https://nikhilsbhat.github.io/projects/creations/config/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://nikhilsbhat.github.io/projects/creations/config/</guid>
+            <guid>https://nikhilsbhat.github.io/projects/creations/config/</guid>
             <description>It is difficult to switch context of different kubernetes clusters hosted in GCP projects. If
                 one has to connect cluster using gcloud, will end up runnig multiple gcloud commands and is painful
                 task.
@@ -121,9 +121,9 @@
         </item>
         <item>
             <title>Identifying drifts from deployed helm releases</title>
-            <link>http://nikhilsbhat.github.io/blog/helm-drift/</link>
+            <link>https://nikhilsbhat.github.io/blog/helm-drift/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-            <guid>http://nikhilsbhat.github.io/blog/helm-drift/</guid>
+            <guid>https://nikhilsbhat.github.io/blog/helm-drift/</guid>
             <description>There is no native Helm way of identifying the drifts in the releases deployed via Helm. Now we
                 have a Helm plugin to identify the drifts from the Helm releases deployed in the cluster.
                 https://artifacthub.io/packages/helm-plugin/helm-drift/drift Just to share context on why this was
