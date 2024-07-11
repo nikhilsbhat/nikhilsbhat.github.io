@@ -175,6 +175,9 @@
         <loc>https://nikhilsbhat.github.io/tags/rest-apis/</loc>
     </url>
     <url>
+        <loc>https://nikhilsbhat.github.io/tags/scaffold/</loc>
+    </url>
+    <url>
         <loc>https://nikhilsbhat.github.io/tags/sdk/</loc>
     </url>
     <url>
@@ -192,5 +195,11 @@
     </url>
     <url>
         <loc>https://nikhilsbhat.github.io/tags/terraform-provider/</loc>
+    </url>
+    <url>
+        <loc>https://nikhilsbhat.github.io/tags/terraform-provider-scaffolding/</loc>
+    </url>
+    <url>
+        <loc>https://nikhilsbhat.github.io/tags/terragen/</loc>
     </url>
 </urlset>

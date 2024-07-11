@@ -51,10 +51,10 @@
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
             <guid>https://nikhilsbhat.github.io/projects/creations/helm-drift/</guid>
             <description>The helm plugin that helps in identifying deviations(mostly due to in-place edits) in the
-                configurations that are deployed via helm chart. Kubernetes&#39; resources can be deployed via package
-                manager helm, it is easier to deploy but to manage the same require more effort. If helm is used,
-                strictly all resources should be managed by helm itself, but there are places where manual interventions
-                are needed. This results in configuration drift from helm charts deployed.
+                configurations that are deployed via helm chart. Kubernetes&amp;rsquo; resources can be deployed via
+                package manager helm, it is easier to deploy but to manage the same require more effort. If helm is
+                used, strictly all resources should be managed by helm itself, but there are places where manual
+                interventions are needed. This results in configuration drift from helm charts deployed.
             </description>
         </item>
         <item>
@@ -62,10 +62,10 @@
             <link>https://nikhilsbhat.github.io/projects/creations/helm-images/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
             <guid>https://nikhilsbhat.github.io/projects/creations/helm-images/</guid>
-            <description>Identifying all images just before the deployment of the helm chart is not a straightforward
-                task. To make it simple, the helm plugin is leveraged. This can be installed as an add-on to the helm.
+            <description>Identifying all images just before the deployment of the helm chart is not a straight-forward
+                task.. This Helm plugin was created to ease this task. This can be installed as an add-on to the helm.
                 It helps in filtering images based on the Kubernetes type. It also helps in filtering images based on a
-                registry which it is part of.
+                registry that it is part of.
             </description>
         </item>
         <item>
@@ -81,10 +81,15 @@
             <link>https://nikhilsbhat.github.io/projects/creations/terragen/</link>
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
             <guid>https://nikhilsbhat.github.io/projects/creations/terragen/</guid>
-            <description>Terraform is one of the best software available to automate the infrastructure and no
-                procrastination in accepting that.
-                Extending terraform would help in solving more complexities. Terragen generates defined templates to
-                ease the creation of terraform custom provider which will help in extending terraform.
+            <description>Backdrop The idea of Terragen was born while reading and working on several other Terraform
+                providers.
+                The initial version of the Terragen was just a one-time scaffold generator for Hashicorp Terraform, a
+                custom provider with limited features.
+                While working on operators for Kubernetes, I bumped into frameworks such as Kubebuilder and
+                operator-sdk.
+                The idea for the latest version of Terragen is derived from such frameworks.
+                Terragen Terraform is one of the best tools available to automate infrastructure, and there is no
+                procrastination in accepting this fact.
             </description>
         </item>
         <item>
@@ -124,8 +129,8 @@
             <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
             <guid>https://nikhilsbhat.github.io/projects/creations/config/</guid>
             <description>It is difficult to switch context of different kubernetes clusters hosted in GCP projects. If
-                one has to connect cluster using gcloud, will end up running multiple gcloud commands and it is painful
-                to run those.
+                one has to connect cluster using gcloud, will end up running multiple gcloud commands, it is painful to
+                run those.
                 Yeah, GCP has an option of cloud shell, where one can connect to the cluster hassle-free. It&amp;rsquo;s
                 little hard if we have to connect locally from our machines.
                 Config solves exactly the same thing, by letting one switch the cluster in one command.
